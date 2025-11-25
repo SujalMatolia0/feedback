@@ -32,16 +32,16 @@ A clean and user-friendly feedback collection system built using **React**, **Ta
 ```
 
 src/
-components/
-  AnalyticsCharts.jsx
-  FeedbackCard.jsx
-  FeedbackForm.jsx
-  FeedbackGrid.jsx
-  FilterBar.jsx
-  QuickInsights.jsx
-  StarRating.jsx
-  services/
-    feedbackService.js
+  components/
+    AnalyticsCharts.jsx
+    FeedbackCard.jsx
+    FeedbackForm.jsx
+    FeedbackGrid.jsx
+    FilterBar.jsx
+    QuickInsights.jsx
+    StarRating.jsx
+    services/
+      feedbackService.js
 App.jsx
 main.jsx
 index.css
