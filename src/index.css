@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+
+:root {
+  --glass: rgba(255, 255, 255, 0.7);
+}
+.loader {
+  border-radius: 50%;
+  border-style: solid;
+}
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial;
+}

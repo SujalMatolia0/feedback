@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="fbgrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="56" height="56" rx="12" fill="none" stroke="url(#fbgrad)" stroke-width="3"/>
+  <text x="50%" y="65%" text-anchor="middle" font-family="Inter, sans-serif" font-size="28" font-weight="700" fill="url(#fbgrad)">
+    FB
+  </text>
+</svg>
